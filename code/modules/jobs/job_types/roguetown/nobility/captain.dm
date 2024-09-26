@@ -10,10 +10,10 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_sexes = list(MALE)
 	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD)
-	tutorial = "You served your time gracefully as a warrior of His Royal Majesty, and now you've grown into a role which many men dream to become. \
-				You are the Marshal's chosen, elevated to command His Majesty's personal retinue. \
-				Keep your men in line, as for this kingdom to prosper, the crown must be safe. \
-				The Men at Arms and the Gatemaster are under your direct supervision."
+	tutorial = "Majestelerinin savaşçısı olarak görevini onurla tamamladın ve şimdi pek çok kişinin hayalini kurduğu bir role büründün. \
+				Sen, Mareşal’in seçilmişisin; Majestelerinin özel birliğinin başına getirildin. \
+				Adamlarını kontrol altında tut; zira bu krallığın refahı için, taç güvende olmalı. \
+				The Men at Arms ve the Gatemaster sizin gözetiminiz altındadır."
 	display_order = JDO_GUARD_CAPTAIN
 	whitelist_req = FALSE
 
