@@ -9,13 +9,13 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD)
 	display_order = JDO_MARSHAL
-	tutorial = "You and your Councillors are the judge and jury, only overruled by His Majesty. \
-				Plan with the Councillors on any issues, laws, judgements, and construction that are required to adapt to the new world. \
-				Your two assistant Councillors are there to fuel your wonderful ideas, lifting the weight of responsibility off your shoulders. \
-				Delegate tasks, enforce taxes and justice upon the unruly. Keep the town running, and enrich it with new architecture. \
-				After all, the King entrusted you with leading and maintaining his military might. \
-				It may be the King's land, but you pull the strings in this town. \
-				All in the name of fulfilling your duty to your Lord."
+	tutorial = "Sen ve danışmanların, yalnızca Majesteleri tarafından geçersiz kılınabilecek yargıç ve jüri konumundasınız.\
+				Yeni dünyaya uyum sağlamak için gereken tüm konular, yasalar, kararlar ve inşaatlar hakkında Konsey Üyeleri ile birlikte plan yapın. \
+				İki Konsey Üyesi yardımcınız, harika fikirlerinizi beslemek ve omuzlarınızdaki sorumluluk yükünü hafifletmek için oradalar. \
+				Görevleri devredin, vergileri ve adaleti asilere uygulayın. Kasabayı çalışır halde tutun ve yeni mimariyle zenginleştirin. \
+				Ne de olsa Kral, askeri gücünü yönetme ve koruma görevini size verdi. \
+				Kralın toprağı olabilir, ama bu kasabada ipler sizin elinizde. \
+				Hepsi Kralınıza karşı görevinizi yerine getirmek adına."
 	whitelist_req = FALSE
 
 	spells = list(/obj/effect/proc_holder/spell/self/convertrole/guard, /obj/effect/proc_holder/spell/self/convertrole/bog)
