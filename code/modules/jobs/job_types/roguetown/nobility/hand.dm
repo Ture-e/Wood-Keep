@@ -9,7 +9,7 @@
 	allowed_sexes = list(MALE, FEMALE)
 	outfit = /datum/outfit/job/roguetown/hand
 	display_order = JDO_HAND
-	tutorial = "You owe everything to your liege. Once, you were just a humble friend- now you are one of the most important men within the kingdom itself. You have played spymaster and confidant to the Noble-Family for so long that you are a vault of intrigue, something you exploit with potent conviction. Let no man ever forget whose ear you whisper into. You've killed more men with those lips than any blademaster could ever claim to."
+	tutorial = "Her şeyini hükümdarına borçlusun. Bir zamanlar sadece mütevazı bir dostken, şimdi krallığın en önemli adamlarından birisin. Yıllarca soylu aileye casusluk yaparak ve sırdaşlık ederek entrikalarla dolu bir hazineye dönüştün; bu bilgiyi de güçlü bir inançla kullanıyorsun. Kimse, kimin kulağına fısıldadığını asla unutmamalı. O dudaklarla, herhangi bir kılıç ustasının iddia edebileceğinden daha fazla adam öldürdün."
 	whitelist_req = TRUE
 	give_bank_account = 44
 	min_pq = 0
