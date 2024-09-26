@@ -11,7 +11,7 @@
 	faction = "Station"
 	total_positions = 5
 	spawn_positions = 5
-	min_pq = 0
+	min_pq = 1
 	max_pq = null	
 	advclass_cat_rolls = list(CTAG_MERCENARY = 20)
 	advjob_examine = TRUE
