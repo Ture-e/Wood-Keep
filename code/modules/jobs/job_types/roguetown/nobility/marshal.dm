@@ -9,7 +9,7 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD)
 	display_order = JDO_MARSHAL
-	tutorial = "Sen ve danışmanların, yalnızca Majesteleri tarafından geçersiz kılınabilecek yargıç ve jüri konumundasınız.\
+	tutorial = "Sen ve danışmanların, yalnızca Majesteleri tarafından geçersiz kılınabilecek yargıç ve jüri konumundasınız. \
 				Yeni dünyaya uyum sağlamak için gereken tüm konular, yasalar, kararlar ve inşaatlar hakkında Konsey Üyeleri ile birlikte plan yapın. \
 				İki Konsey Üyesi yardımcınız, harika fikirlerinizi beslemek ve omuzlarınızdaki sorumluluk yükünü hafifletmek için oradalar. \
 				Görevleri devredin, vergileri ve adaleti asilere uygulayın. Kasabayı çalışır halde tutun ve yeni mimariyle zenginleştirin. \
