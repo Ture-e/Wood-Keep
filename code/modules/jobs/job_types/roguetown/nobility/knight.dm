@@ -9,7 +9,7 @@
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED)
 	allowed_patrons = ALL_NON_INHUMEN_PATRONS
-	tutorial = "A Knight with expert training; Born into petty nobility and raised as a squire from a young age, now you Guard the king as His knight, answer to His commands, and protect His honor. You're wholy dedicated to Him, and His safety. Do not fail Him."
+	tutorial = "Uzman eğitimi almış bir şövalye; küçük bir soylu ailede doğup, genç yaşta bir silahtar olarak yetiştirildin. Şimdi ise Kral’ın şövalyesi olarak O’nu koruyor, emirlerine itaat ediyor ve onurunu savunuyorsun. Ona ve güvenliğine tamamen adanmışsın. Ona asla ihanet etme."
 	display_order = JDO_KNIGHT
 	whitelist_req = TRUE
 	outfit = /datum/outfit/job/roguetown/knight
